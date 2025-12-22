@@ -1,4 +1,4 @@
 build:
   app:
     type: docker
-    context: .
+    context: ./001-hello-world/
